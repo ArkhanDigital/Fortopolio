@@ -33,10 +33,6 @@ portfolio/
 ├── index.html              # Main portfolio file
 ├── media/
 │   └── profile.jpg         # Profile photo
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
 └── README.md              # This file
 ```
 
